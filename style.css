@@ -1,0 +1,39 @@
+body{
+    background-color: black;
+    text-align: center;
+}
+
+p{
+    color: white;
+    max-width: 600px; 
+    margin: 0 auto;
+    line-height: 1.6;
+}
+
+h1, h2{
+    color: white;
+}
+.link{
+    color: red;
+}
+
+.link:hover{
+    color: purple;
+}
+
+.imagem-redonda{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    object-fit: center;
+}
+
+img{
+
+    width: 550px;
+}
+
+.spotify{
+    width: 550px;
+    height: 352px;
+}
